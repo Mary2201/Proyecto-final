@@ -1,0 +1,17 @@
+C:\Users\estef\Documents\ARQ SOFTWARE\Evalueytor-backend\businessdomain\evaluacion\src\main\java\com\udla\evaluaytor\businessdomain\evaluacion\Controllers\EvaluacionController.java
+C:\Users\estef\Documents\ARQ SOFTWARE\Evalueytor-backend\businessdomain\evaluacion\src\main\java\com\udla\evaluaytor\businessdomain\evaluacion\EvaluacionApplication.java
+C:\Users\estef\Documents\ARQ SOFTWARE\Evalueytor-backend\businessdomain\evaluacion\src\main\java\com\udla\evaluaytor\businessdomain\evaluacion\Models\Categoria.java
+C:\Users\estef\Documents\ARQ SOFTWARE\Evalueytor-backend\businessdomain\evaluacion\src\main\java\com\udla\evaluaytor\businessdomain\evaluacion\Models\DetalleFormularioEvaluacion.java
+C:\Users\estef\Documents\ARQ SOFTWARE\Evalueytor-backend\businessdomain\evaluacion\src\main\java\com\udla\evaluaytor\businessdomain\evaluacion\Models\Documento.java
+C:\Users\estef\Documents\ARQ SOFTWARE\Evalueytor-backend\businessdomain\evaluacion\src\main\java\com\udla\evaluaytor\businessdomain\evaluacion\Models\EstadoDetalle.java
+C:\Users\estef\Documents\ARQ SOFTWARE\Evalueytor-backend\businessdomain\evaluacion\src\main\java\com\udla\evaluaytor\businessdomain\evaluacion\Models\EstadoFormulario.java
+C:\Users\estef\Documents\ARQ SOFTWARE\Evalueytor-backend\businessdomain\evaluacion\src\main\java\com\udla\evaluaytor\businessdomain\evaluacion\Models\FormularioEvaluacion.java
+C:\Users\estef\Documents\ARQ SOFTWARE\Evalueytor-backend\businessdomain\evaluacion\src\main\java\com\udla\evaluaytor\businessdomain\evaluacion\Models\Perito.java
+C:\Users\estef\Documents\ARQ SOFTWARE\Evalueytor-backend\businessdomain\evaluacion\src\main\java\com\udla\evaluaytor\businessdomain\evaluacion\Models\Proveedor.java
+C:\Users\estef\Documents\ARQ SOFTWARE\Evalueytor-backend\businessdomain\evaluacion\src\main\java\com\udla\evaluaytor\businessdomain\evaluacion\Repositories\DetalleFormularioEvaluacionRepository.java
+C:\Users\estef\Documents\ARQ SOFTWARE\Evalueytor-backend\businessdomain\evaluacion\src\main\java\com\udla\evaluaytor\businessdomain\evaluacion\Repositories\DocumentoRepository.java
+C:\Users\estef\Documents\ARQ SOFTWARE\Evalueytor-backend\businessdomain\evaluacion\src\main\java\com\udla\evaluaytor\businessdomain\evaluacion\Repositories\EstadoDetalleRepository.java
+C:\Users\estef\Documents\ARQ SOFTWARE\Evalueytor-backend\businessdomain\evaluacion\src\main\java\com\udla\evaluaytor\businessdomain\evaluacion\Repositories\EstadoFormularioRepository.java
+C:\Users\estef\Documents\ARQ SOFTWARE\Evalueytor-backend\businessdomain\evaluacion\src\main\java\com\udla\evaluaytor\businessdomain\evaluacion\Repositories\FormularioEvaluacionRepository.java
+C:\Users\estef\Documents\ARQ SOFTWARE\Evalueytor-backend\businessdomain\evaluacion\src\main\java\com\udla\evaluaytor\businessdomain\evaluacion\Services\FormularioEvaluacionImp.java
+C:\Users\estef\Documents\ARQ SOFTWARE\Evalueytor-backend\businessdomain\evaluacion\src\main\java\com\udla\evaluaytor\businessdomain\evaluacion\Services\FormularioEvaluacionService.java

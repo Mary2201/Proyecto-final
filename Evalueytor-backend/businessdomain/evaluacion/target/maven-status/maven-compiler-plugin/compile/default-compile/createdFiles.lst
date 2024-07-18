@@ -1,0 +1,17 @@
+com\udla\evaluaytor\businessdomain\evaluacion\EvaluacionApplication.class
+com\udla\evaluaytor\businessdomain\evaluacion\Repositories\EstadoFormularioRepository.class
+com\udla\evaluaytor\businessdomain\evaluacion\Services\FormularioEvaluacionImp.class
+com\udla\evaluaytor\businessdomain\evaluacion\Models\EstadoFormulario.class
+com\udla\evaluaytor\businessdomain\evaluacion\Repositories\FormularioEvaluacionRepository.class
+com\udla\evaluaytor\businessdomain\evaluacion\Controllers\EvaluacionController.class
+com\udla\evaluaytor\businessdomain\evaluacion\Models\Categoria.class
+com\udla\evaluaytor\businessdomain\evaluacion\Models\Documento.class
+com\udla\evaluaytor\businessdomain\evaluacion\Models\EstadoDetalle.class
+com\udla\evaluaytor\businessdomain\evaluacion\Repositories\DocumentoRepository.class
+com\udla\evaluaytor\businessdomain\evaluacion\Services\FormularioEvaluacionService.class
+com\udla\evaluaytor\businessdomain\evaluacion\Models\Perito.class
+com\udla\evaluaytor\businessdomain\evaluacion\Repositories\EstadoDetalleRepository.class
+com\udla\evaluaytor\businessdomain\evaluacion\Repositories\DetalleFormularioEvaluacionRepository.class
+com\udla\evaluaytor\businessdomain\evaluacion\Models\DetalleFormularioEvaluacion.class
+com\udla\evaluaytor\businessdomain\evaluacion\Models\Proveedor.class
+com\udla\evaluaytor\businessdomain\evaluacion\Models\FormularioEvaluacion.class
